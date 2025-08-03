@@ -42,17 +42,6 @@ Built on the **USDA Food and Nutrient Database for Dietary Studies 2019-2020 (FN
 ![NumPy](https://img.shields.io/badge/NumPy-Latest-orange)
 ![Tableau](https://img.shields.io/badge/Tableau-Public-blue)
 
-## 📁 Repository Structure
-├── analysis/                           # Jupyter notebook with data processing
-│   └── nutrition_final.ipynb          # Complete analysis pipeline
-├── data/                               # Processed CSV files
-│   ├── final_df.csv                   # Main dataset with nutrients & RDA values
-│   ├── melted_df_food.csv             # Long-format data for visualization
-│   └── new_nutrients_df.csv           # Nutrient information & RDA standards
-├── docs/                               # USDA documentation
-│   └── *.pdf                          # Official methodology & data specs
-├── images/                             # Screenshots and visualizations
-└── README.md                           # Project documentation
 
 ## 🎯 Business Applications
 - **Healthcare Professionals** - Quick nutritional assessment tool
