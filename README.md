@@ -1,8 +1,6 @@
 # 🩺 Micronutrients Health Analytics Dashboard
 **Public Health Data Visualization | MSc Data Science and Analytics Dissertation (Distinction)**
 
-![Dashboard Overview](images/dashboard-overview.png)
-
 ## 🎯 Project Overview
 Interactive dashboard making USDA nutritional data accessible through visualisation, supporting evidence-based dietary decisions and public health research. Designed for both healthcare professionals and the general public seeking reliable nutritional guidance.
 
